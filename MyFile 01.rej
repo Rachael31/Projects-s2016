@@ -1,0 +1,3 @@
+diff a/MyFile 01 b/MyFile 01	(rejected hunks)
+@@ -0,0 +1 @@
++My first file.
