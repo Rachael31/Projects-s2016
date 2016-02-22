@@ -10,7 +10,7 @@ public class LoopsDoWhile : MonoBehaviour
 
         do
         {
-            print("Hello World");
+            print("Hey Worldunit");
 
         } while (shouldContinue == true);
     }

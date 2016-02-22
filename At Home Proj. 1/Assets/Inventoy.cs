@@ -6,15 +6,15 @@ public class Inventoy : MonoBehaviour
     public class Stuff
     {
         public int bullets;
-        public int grenades;
-        public int rockets;
+        public int fire;
+        public int lasers;
         public float fuel;
 
-        public Stuff(int bul, int gre, int roc)
+        public Stuff(int bul, int fi, int las)
         {
             bullets = bul;
-            grenades = gre;
-            rockets = roc;
+            fire = fi;
+            lasers = las;
         }
 
         public Stuff(int bul, float fu)
@@ -27,8 +27,8 @@ public class Inventoy : MonoBehaviour
         public Stuff()
         {
             bullets = 1;
-            grenades = 1;
-            rockets = 1;
+            lasers = 1;
+            fire = 1;
         }
     }
 

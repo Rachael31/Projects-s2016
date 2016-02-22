@@ -18,10 +18,10 @@ public class ScopesandAccess : MonoBehaviour;
         myOtherClass.FruitMachine(alpha, myOtherClass.apples);
     }
 
-    void Example(int pens, int crayons)
+    void Example(int pencils, int paintbrushes)
     {
         int answer;
-        answer = pens * crayons * alpha;
+        answer = pencils * paintbrushes * alpha;
         Debug.Log(answer);
     }
 

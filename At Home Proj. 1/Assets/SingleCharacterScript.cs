@@ -6,14 +6,14 @@ public class SingleCharacterScript : MonoBehaviour
     public class Stuff
     {
         public int bullets;
-        public int grenades;
-        public int rockets;
+        public int fire;
+        public int lasers;
 
-        public Stuff(int bul, int gre, int roc)
+        public Stuff(int bul, int fi, int las)
         {
             bullets = bul;
-            grenades = gre;
-            rockets = roc;
+            fire = fi;
+            lasers = las;
         }
     }
 
