@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ScopesandAccess : MonoBehaviour;
+public class ScopesandAccess : MonoBehaviour
 {
     public int alpha = 5;
 

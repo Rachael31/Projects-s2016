@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class WhileLoop : MonoBehaviour 
+public class Loops : MonoBehaviour 
 {
 	int bowlsInTheCupboard = 7;
 

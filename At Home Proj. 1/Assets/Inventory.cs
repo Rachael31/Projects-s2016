@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Inventoy : MonoBehaviour
+public class Inventory : MonoBehaviour
 {
     public class Stuff
     {

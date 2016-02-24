@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Loopsfor : MonoBehavior
+public class Loopsfor : MonoBehaviour 
 {
     int numEnemies = 3;
 

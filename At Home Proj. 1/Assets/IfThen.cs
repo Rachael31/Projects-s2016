@@ -3,9 +3,9 @@ using System.Collections;
 
 public class IfThen : MonoBehaviour
 {
-    float waterTemperature = 75.0f;
-    float hotLimitTemperature = 55.0f;
-    float coldLimitTemperature = 30.0f;
+    public float waterTemperature = 75.0f;
+    public float hotLimitTemperature = 55.0f;
+   public float coldLimitTemperature = 30.0f;
 
 
     void Update ()
