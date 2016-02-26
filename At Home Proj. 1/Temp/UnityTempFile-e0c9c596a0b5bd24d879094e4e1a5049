@@ -69,13 +69,14 @@
 -define:UNITY_EDITOR_WIN
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
+Assets/AnotherClass.cs
 Assets/DataTypes.cs
 Assets/IfThen.cs
-Assets/Inventoy.cs
-"Assets/Loops DoWhile.cs"
-"Assets/Loops ForEach.cs"
-"Assets/Loops for.cs"
+Assets/Inventory.cs
 Assets/Loops.cs
+Assets/LoopsDoWhile.cs
+Assets/LoopsForEach.cs
+Assets/Loopsfor.cs
 Assets/MovementControls.cs
 Assets/ScopesandAccess.cs
 Assets/Shooting.cs

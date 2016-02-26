@@ -6,8 +6,6 @@
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
 -r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
--r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
--r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
 -r:"C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll"
 -define:UNITY_5_1_2
@@ -71,13 +69,14 @@
 -define:UNITY_EDITOR_WIN
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
+Assets/AnotherClass.cs
 Assets/DataTypes.cs
 Assets/IfThen.cs
-Assets/Inventoy.cs
-"Assets/Loops DoWhile.cs"
-"Assets/Loops ForEach.cs"
-"Assets/Loops for.cs"
+Assets/Inventory.cs
 Assets/Loops.cs
+Assets/LoopsDoWhile.cs
+Assets/LoopsForEach.cs
+Assets/Loopsfor.cs
 Assets/MovementControls.cs
 Assets/ScopesandAccess.cs
 Assets/Shooting.cs
